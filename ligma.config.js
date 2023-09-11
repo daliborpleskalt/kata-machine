@@ -1,4 +1,4 @@
-module.exports = {
+/*module.exports = {
     dsa: [
         "DFSOnBST",
         "LRU",
@@ -25,5 +25,11 @@ module.exports = {
         "Map",
         "MinHeap",
     ],
-}
+}*/
 
+module.exports = {
+    dsa: [
+        "BinarySearchList",
+        "TwoCrystalBalls",
+    ],
+}
